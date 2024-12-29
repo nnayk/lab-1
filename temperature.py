@@ -1,7 +1,6 @@
 '''
-You will write a function called "celsiusToFahrenheit" to convert temperature in Celsius to Fahrenheit. These two values are related
-by the formula:
-celsius * 1.8 = fahrenheit – 32
+You will write a function called "celsiusToFahrenheit" to convert temperature in Celsius to Fahrenheit. These two values are related by the formula: celsius * 1.8 = fahrenheit – 32
+
 As an input to the program, you will have to prompt the user to enter a value in Celsius. For prompting
 and accepting the user for an input, use input(msg) in your code. It presents a prompt to the user (you
 will have to replace ‘msg’ with a prompt message in quotes), gets input from the user and stores the
